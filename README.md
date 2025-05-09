@@ -15,5 +15,4 @@ Educa is an online learning platform designed for students and tutors to manage 
 - **CSS3** for styling (external style file `style.css`).
 - **JavaScript** for interactive functionality (external script file `script.js`).
 
-## Files and Structure
 
